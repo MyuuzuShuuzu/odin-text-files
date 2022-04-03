@@ -1,0 +1,73 @@
+Pascal Cagle
+The Odin Project
+02 April 2022
+
+Foundations: How Does The Web Work?
+
+1. What is a network?
+A network consists of two or more computers that are linked in order to share resources
+(such as printers and CDs), exchange files, or allow electronic communications.
+The computers on a network may be linked through cables, telephone lines, radio waves,
+satellites, or infrared light beams.
+
+2. What is the Internet?
+The Internet is a global network of computers that use protocols and data packets to
+exchange information. There are a range of different protocols to do different jobs
+on the network.
+
+3. What is an IP address?
+An IP (Internet Protocol) address is a unique address that identifies any computer
+linked to a network. Each address is made of a series of four numbers separated by dots.
+
+4. What is a router?
+A router is a networking device that forwards data packets between computer networks.
+Routers perform the traffic directing functions on the Internet.
+
+5. What is an ISP?
+An ISP (Internet Service Provider) is a company that manages some special routers that
+are all linked together and can also access other ISPs’ routers.
+
+6. What are packets and how are they used to transfer data?
+A packet is a basic unit of communication over a digital network. They are used to break
+data into small chunks so it is easier to transmit. The packets are reassembled once they
+reach their destination.
+
+7. What is a client?
+A client is the typical web user’s Internet-connected device and web-accessing software
+available on those devices.
+
+8. What is a server?
+A server is a computer that stores web pages, sites, or apps. When a client device wants
+to access a webpage, a copy of the webpage is downloaded from the server onto the client
+machine to be displayed in the user’s web browser.
+
+9. What is a web page?
+A web page is a document which can be displayed in a web browser such as Firefox, Google
+Chrome, Opera, Microsoft Internet Explorer or Edge, or Apple’s Safari. It is also often
+called just “a page.”
+
+10. What is a web server?
+A web server is a computer that hosts a website on the Internet.
+
+11. What is a web browser?
+A web browser is a computer software application that functions at the application layer
+of an Open Systems Interconnection model and allows users to access the Internet.
+
+12. What is a search engine?
+A search engine is a web service that helps you find other web pages, such as Google, Bing,
+Yahoo, or DuckDuckGo. A search engine is normally accessed through a web browser or through
+a web page.
+
+13. What is a DNS request?
+A DNS request (also known as a DNS query) is a demand for information sent from a user’s
+computer (DNS client) to a DNS server. In most cases, a DNS request is sent to ask for the
+IP address associated with a domain name.
+
+14. Which browser are you currently using?
+Opera 84 (Opera GX)
+
+15. In your own words, explain what happens when you run a search on google.com.
+After typing a phrase into the search bar, the user sends a request to google.com.
+Google receives that users’ request and looks through its databases for pages that may contain
+the wanted phrase. When it finds some, it compiles them into the search results and sends them
+back to the user as its response.

@@ -1,0 +1,23 @@
+Pascal Cagle
+The Odin Project
+2 April 2022
+
+Foundations: Asking For Help
+
+1. Name at least one thing your question should always include.
+When asking a question, your question should include the relevant code snippet and its surrounding context.
+You should also be asking about the problem, and not the solution.
+
+2. Describe the “XY Problem.”
+The XY problem begins when a user who wants to do one thing actually asks about doing another thing,
+thinking they can engineer a solution from there. However, they don’t know how to do the second thing.
+When other people try to help, they are confused since the second thing is a weird problem to solve.
+After a lot of wasted time, the user eventually admits that they want to do the first thing,
+and that the second thing wouldn’t have even helped.
+
+3. Describe three attributes of a “help vampire.”
+First, a help vampire asks repetitive, samey, incoherent questions very quickly, and he cannot properly
+Google for the answers. He assumes that answering his question should be your utmost priority,
+and he believes you should prove why he should do a certain thing. He’s usually waiting for someone else
+to think for him, as he wants to have someone else to do all of his work; he doesn’t care that much about
+getting the question answered.

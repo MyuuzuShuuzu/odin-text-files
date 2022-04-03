@@ -1,0 +1,47 @@
+Shelby Cagle
+The Odin Project
+03 April 2022
+
+Foundations: Command Line Basics
+
+1. What is the command line?
+The command line is a user interface that's navigated by typing commands at prompts,
+instead of using a mouse.
+
+2. How do you open the command line on your computer?
+CTRL + ALT + T
+
+3. How can you navigate to a particular directory?
+$ cd <particular/directory/path>
+
+4. Where will cd on its own navigate you to?
+Your home directory.
+
+5. Where will cd .. navigate you to?
+One level above your current directory.
+
+6. How do you display the name of the directory you are currently in?
+$ pwd
+
+7. How do you display the contents of the directory you are currently in?
+$ ls
+
+8. How do you create a new directory?
+$ mkdir <new_directory_name>
+
+9. How do you create a new file?
+$ touch <new_file_name.extension>
+or
+$ echo <new_file_name.extension>
+
+10. How do you destory a directory or file?
+Directory:
+$ rm -r <directory_name>
+File:
+$ rm <file_name.extension>
+
+11. How do you rename a directory or file?
+Directory:
+$ mv <current_directory_name> <new_directory_name>
+File:
+$ mv <current_file_name.extension> <new_file_name.extension>

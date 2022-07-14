@@ -2,7 +2,7 @@ Pascal Cagle
 The Odin Project
 14 July 2022
 
-Foundations: Elements and Tags
+HTML Foundations: Elements and Tags
 
 1. What is an HTML tag?
 An HTML tag is a piece of markup language used to

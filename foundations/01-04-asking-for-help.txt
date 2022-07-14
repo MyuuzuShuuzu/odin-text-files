@@ -2,7 +2,7 @@ Pascal Cagle
 The Odin Project
 2 April 2022
 
-Foundations: Asking For Help
+Introduction: Asking For Help
 
 1. Name at least one thing your question should always include.
 When asking a question, your question should include the relevant code snippet and its surrounding context.

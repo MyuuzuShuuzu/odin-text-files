@@ -2,7 +2,7 @@ Pascal Cagle
 The Odin Project
 14 July 2022
 
-Foundations: Introduction to HTML and CSS
+HTML Foundations: Introduction to HTML and CSS
 
 1. What do HTML and CSS stand for?
 HTML stands for Hypertext Markup Language. CSS stands for Cascading Style Sheets.

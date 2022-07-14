@@ -2,7 +2,7 @@ Pascal Cagle
 The Odin Project
 13 July 2022
 
-Foundations: Computer Basics
+Prerequisites: Computer Basics
 
 1. Is Windows an operating system or an application?
 Windows is an operating system.

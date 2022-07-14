@@ -2,7 +2,7 @@ Shelby Cagle
 The Odin Project
 03 April 2022
 
-Foundations: Command Line Basics
+Prerequisites: Command Line Basics
 
 1. What is the command line?
 The command line is a user interface that's navigated by typing commands at prompts,

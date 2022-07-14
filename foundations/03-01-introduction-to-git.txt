@@ -2,7 +2,7 @@ Pascal Cagle
 The Odin Project
 13 July 2022
 
-Foundations: Introduction To Git
+Git Basics: Introduction To Git
 
 1. What kind of program is Git?
 Git is a version control system.

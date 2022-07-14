@@ -2,7 +2,7 @@ Pascal Cagle
 The Odin Project
 13 July 2022
 
-Foundations: Git Basics
+Git Basics: Git Basics
 
 1. How do you create a new repository on GitHub?
 Click the "+" button in the top right of the webpage and select "New repository."

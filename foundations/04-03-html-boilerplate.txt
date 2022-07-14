@@ -1,0 +1,23 @@
+Pascal Cagle
+The Odin Project
+14 July 2022
+
+HTML Foundations: HTML Boilerplate
+
+1. What is the purpose of the doctype declaration?
+The doctype declaration tells the browser what version
+of HTML it should use to render the document/
+
+2. What is the HTML element?
+The "HTML" element is the root element of the document,
+so every other element in the document will be a
+descendant of it.
+
+3. What is the purpose of the head element?
+The "head" element is where we put important meta-information
+about our webpages, and stuff required for our webpages to
+render correctly in the browser.
+
+4. What is the purpose of the body element?
+The "body" element contains all the content that will be
+displayed to users - the text, images, lists, links, etc..

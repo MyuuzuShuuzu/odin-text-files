@@ -2,7 +2,7 @@ Pascal Cagle
 The Odin Project
 02 April 2022
 
-Foundations: How Does The Web Work?
+Prerequisites: How Does The Web Work?
 
 1. What is a network?
 A network consists of two or more computers that are linked in order to share resources

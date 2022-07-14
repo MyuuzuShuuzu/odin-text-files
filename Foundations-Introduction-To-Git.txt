@@ -1,0 +1,28 @@
+Pascal Cagle
+The Odin Project
+13 July 2022
+
+Foundations: Introduction To Git
+
+1. What kind of program is Git?
+Git is a version control system.
+
+2. What are the differences between Git and a text editor in terms of what they save and their record keeping?
+A text editor saves everything in a document as a single file. You are only given one record of the file unless
+you make duplicate copies. Saving in Git records differences in files and folders and keeps a historical record
+of each save.
+
+3. Does Git work at a local or remote level?
+Git works on a local level.
+
+4. Does GitHub work at a local or remote level?
+GitHub works at a remote level on the web.
+
+5. Why is Git useful for an individual developer?
+You can track the history of every single change to a file. You can also see the before and after of a file,
+along with context and descriptions of each change.
+
+6. Why are Git and GitHub useful for a team of developers?
+A version control system can easily and quickly bring multiple changes to the same or adjacent files together.
+It will merge multiple versions of edited files into a usable state. The history also helps to see who worked
+on what in each part of the project. Git and GitHub are great for facilitating collaboration.

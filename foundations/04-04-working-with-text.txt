@@ -1,0 +1,30 @@
+Pascal Cagle
+The Odin Project
+14 July 2022
+
+HTML Foundations: Working with Text
+
+1. How do you create a paragraph in HTML?
+Use the <p> tag to create a paragraph.
+
+2. How do you create a heading in HTML?
+Use <h1>, <h2>, <h3>, <h4>, <h5>, or <h6> tags to create a heading.
+
+3. How many different levels of headings are there and what is the difference between them?
+There are six different levels of headings. As the heading number increases, the text's size
+decreases, along with its importance.
+
+4. What element should you use to make text bold and important?
+Use the <strong> element.
+
+5. What element should you use to make text italicized to add emphasis to it?
+Use the <em> element.
+
+6. What relationship does an element have with any nested elements within it?
+If an element has any nested elements within it, it is the parent of those elements.
+
+7. What relationship do two elements have if they are at the same level of nesting?
+If two elements are at the same level of nesting, they are siblings.
+
+8. How do you create HTML comments?
+Surround text within <!-- this structure. -->

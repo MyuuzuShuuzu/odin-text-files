@@ -1,0 +1,22 @@
+Pascal Cagle
+The Odin Project
+14 July 2022
+
+Foundations: Introduction to HTML and CSS
+
+1. What do HTML and CSS stand for?
+HTML stands for Hypertext Markup Language. CSS stands for Cascading Style Sheets.
+
+2. Between HTML and CSS, which would you use for putting paragraphs of text on a webpage?
+You would use HTML for putting paragraphs of text on a webpage.
+
+3. Between HTML and CSS, which would you use for changing the font and background color of a button?
+You would use CSS for changing the font and background color of a button.
+
+4. What is the difference between HTML, CSS, and JavaScript?
+HTML is used to create the structure of the website. It controls the layout of the content, provides
+structure for the web page design, and is the fundamental building block of any web page. CSS stylizes
+the website. It applies style to the web page elements, targets various screen sizes to make web pages
+responsive, and primarily handles the "look and feel" of a web page. JavaScript increases the interactivity
+of a website. It adds interactivity to a web page, handles complex functions and features, and is programmatic
+code which enhances functionality.

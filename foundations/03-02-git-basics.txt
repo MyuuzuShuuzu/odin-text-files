@@ -1,0 +1,46 @@
+Pascal Cagle
+The Odin Project
+13 July 2022
+
+Foundations: Git Basics
+
+1. How do you create a new repository on GitHub?
+Click the "+" button in the top right of the webpage and select "New repository."
+
+2. How do you copy a repository onto your local machine from GitHub?
+When you're in the repository on GitHub, click the green "Code" button and select
+an option from HTTPS, SSH, and GitHub CLI, then copy the line below it. To actually
+clone it onto your local machine, use git clone followed by the URL.
+
+3. What is the default name of your remote connection?
+The default name of your remote connection is "origin."
+
+4. Explain what origin is in git push origin main.
+"origin" is a placeholder name for the URL of the remote repository. You can use it
+instead of the full URL to access the remote repository. You can also have multiple
+remotes for a repository by giving each a unique name.
+
+5. Explain what main is in git push origin main.
+"main" is the branch of the remote repository you want to push your branch to. It is the
+official branch in the your projects where production-ready code lives.
+
+6. Explain the two-stage system that Git uses to save files.
+A save in Git is divided into add and commit. Staging allows you to select which files
+and repositories to place on your branch. Commiting is when you actually place them.
+The respective commands are:
+$ git add
+$ git commit
+
+7. How do you check the status of your current repository?
+$ git status
+
+8. How do you commit the files in the staging area and add a descriptive message?
+$ git commit -m <Your message here>
+
+9. How do you push your changes to your repository on GitHub?
+$ git push
+or
+$ git push origin main
+
+10. How do you look at the history of your previous commits?
+$ git log

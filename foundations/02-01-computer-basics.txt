@@ -1,0 +1,25 @@
+Pascal Cagle
+The Odin Project
+13 July 2022
+
+Foundations: Computer Basics
+
+1. Is Windows an operating system or an application?
+Windows is an operating system.
+
+2. What's the difference between open source and closed source software?
+With open source software, the source code is publicly available to anyone
+who wants it. Programmers can erad or change that code if they want.
+With closed-source software, the public is not given access to the source
+code, so they can't see or modify it in any way.
+
+3. What are some use cases of a screenshot?
+A screenshot can be used to capture an error message to show tech support.
+If you're on the phone with someone who can't find something on their own
+computer, you can send a screenshot of your computer to show that person
+what to look for. Finally, you can also do something like saving the
+confirmation number of a purchase rather than printing it or writing it down.
+
+4. Give an example of a weak and a strong password?
+One example of a weak password is w3St!. A strong password would be something
+like m#P52s@ap$V.

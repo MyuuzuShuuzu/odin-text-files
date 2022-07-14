@@ -1,0 +1,13 @@
+Pascal Cagle
+The Odin Project
+14 July 2022
+
+Foundations: Elements and Tags
+
+1. What is an HTML tag?
+An HTML tag is a piece of markup language used to
+indicate the beginning and end of an HTML element.
+
+2. What are the three parts of an HTML element?
+The three parts of an HTML element are an opening
+tag, content, and a closing tag.

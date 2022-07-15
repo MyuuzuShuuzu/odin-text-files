@@ -3,7 +3,7 @@
 All of my answers to each section's Knowledge Checks are located here.
 
 The format of an entry after navigating into the correct subfolder is
-as follows:
+as follows:  
 `xx-xx-title-of-lesson.txt`
 - The first xx is the overall chapter number, starting from 01.
 - The second xx is the lesson number, starting from 01.

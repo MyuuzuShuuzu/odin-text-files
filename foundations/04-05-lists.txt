@@ -1,0 +1,14 @@
+Pascal Cagle
+The Odin Project
+15 July 2022
+
+HTML Foundations: Lists
+
+1. What HTML tag is used to create an unordered list?
+Use the <ul> tag to create an unordered list.
+
+2. What HTML tag is used to create an ordered list?
+Use the <ol> tag to create an ordered list.
+
+3. What HTML tag is used to create list items within both unordered and ordered lists?
+Use the <li> tag to create list items within both unordered and ordered lists.

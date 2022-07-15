@@ -1,0 +1,34 @@
+Pascal Cagle
+The Odin Project
+15 July 2022
+
+HTML Foundations: Links and Images
+
+1. What element is used to create a link?
+Use the anchor element (<a>) to create a link.
+
+2. What is an attribute?
+An attribute gives additional information to an HTML element.
+
+3. What attribute tells links where to go?
+The "href" attribute tells links where to go.
+
+4. What is the difference between an absolute and relative link?
+An absolute link links to pages on other websites on the internet. It will
+always contain the protocol and domain of the destination. A relative link
+links to other pages within one's own website. It does not include the domain
+name, since it assumes the domain name will be the same as the prior page the
+link is on.
+
+5. Which element is used to display an image?
+The <img> element is used to display an image.
+
+6. What two attributes do images always need to have?
+Images always need to have a "src" and an "alt" attribute.
+
+7. How do you access a parent directory in a filepath?
+Use "../" to access a parent directory in a filepath.
+
+8. What are the four main image formats that you can use for images on the web?
+The four main image formats that you can use for images on the web are JPG, GIF,
+PNG, and SVG.
